@@ -39,10 +39,10 @@ describe('Add a New Game', function() {
 		    "visitorTeam" : 1477261819718,
 		    "events" : [
 					{
-						"description" : "An Event Occured",
+						"description" : "An Event Occured"
 				 	},
 					{
-						"description" : "Another Event Occured",
+						"description" : "Another Event Occured"
 				 	}
 				]
 			};
@@ -50,10 +50,10 @@ describe('Add a New Game', function() {
 		    "visitorTeam" : 1477261819718,
 		    "events" : [
 					{
-						"description" : "An Event Occured",
+						"description" : "An Event Occured"
 				 	},
 					{
-						"description" : "Another Event Occured",
+						"description" : "Another Event Occured"
 				 	}
 				]
 			};
@@ -61,10 +61,10 @@ describe('Add a New Game', function() {
 		    "homeTeam" : 1477261819718,
 		    "events" : [
 					{
-						"description" : "An Event Occured",
+						"description" : "An Event Occured"
 				 	},
 					{
-						"description" : "Another Event Occured",
+						"description" : "Another Event Occured"
 				 	}
 				]
 			};

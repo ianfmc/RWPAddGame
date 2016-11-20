@@ -20,7 +20,7 @@ exports.handler = function(event, context, callback) {
 
           TableName : 'Game',
           Item : { 
-              "gameID" : uuid,
+              "gameID" : uuid.toString(),
               "homeTeam": event.homeTeam,
               "visitorTeam": event.visitorTeam,
               "events": event.events
